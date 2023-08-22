@@ -1,1 +1,2 @@
-# Docker File for hands-on experience
+# Building Docker Images and  Containers for hands-on experience
+Docker, think of it as a clever toolbox for developers, allowing them to wrap up applications along with all their necessary bits and pieces in virtual packages called containers. These containers are like travel cases for apps, ensuring that no matter where you set up camp, everything you need is right there with you. It's like having your own portable workspace that you can carry from your backyard to the far corners of the world, and your work environment stays just the way you like it.
