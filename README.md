@@ -46,7 +46,7 @@ docker images
 
    Which should return something like this.....
 
-![image](https://github.com/IshaanPotle/Docker/assets/64418106/57fd52bc-857d-45bc-8f66-04e4a14f1e35)
+![image](https://github.com/IshaanPotle/Docker/blob/main/image.png)
 
 5) $ docker run -it --rm -d -p 8080:80 --name web nginx
 With the above command, you started running the container as a daemon (-d) and published port 8080 on the host network. You also named the container web using the --name option.
